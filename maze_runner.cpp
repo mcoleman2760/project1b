@@ -1,3 +1,11 @@
+/*
+Author: Michael Coleman
+Course: CSCI-135
+Instructor: Genady Maryash
+Assignment: Project 1B
+This program makes a maze and takes a list of directions and prints if it was properly traversed or not.
+*/
+
 #include <iostream>
 #include<string>
 
